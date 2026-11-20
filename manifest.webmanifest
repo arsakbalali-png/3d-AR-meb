@@ -1,0 +1,8 @@
+{
+  "name": "Cringe Emoji AR",
+  "short_name": "Cringe AR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#11111a",
+  "theme_color": "#11111a"
+}
